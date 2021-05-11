@@ -8,7 +8,7 @@
 | :--------------------------------------------------: | :-----------------------------: |
 | [🔗](https://github.com/dongwonnn/DOM_Enlightenment) |         DOM을 깨우치다          |
 |  [🔗](https://github.com/dongwonnn/learning-react)   |       React를 다루는 기술       |
-| [🔗](https://github.com/dongwonnn/DOM_Enlightenment) | Do it! 타입 스크립트 프로그래밍 |
+| [🔗](https://github.com/dongwonnn/TypeScript-Study)  | Do it! 타입 스크립트 프로그래밍 |
 
 ### 💻인터넷 강의
 
